@@ -99,3 +99,19 @@ footer{
         margin: 10px 0;
     }
 }
+
+
+#contact-info p, #social-media p{
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #333;
+}
+
+#social-media a{
+    color: #333;
+    text-decoration: none;
+}
+
+#social-media a:hover{
+    text-decoration: underline;
+}
