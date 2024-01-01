@@ -21,5 +21,30 @@
             </ul>
         </nav>
     </header>
+        <div class= "reservation-form">
+            <form action= "/submit-reservation" method= "post">
+                <fieldset>
+                    <legend>Make a Reservation</legend>
+                    <label for= "email">Email:</label>
+                    <input type= "email" id= "email" name= "email" required><br>
+
+                    <label for= "mobile">Mobile:</label>
+                    <input type= "tel" id= "mobile" name= "mobile" required><br>
+
+                    <label for= "telephone">Telephone:</label>
+                    <input type= "tel" id= "telephone" name= "telephone"><br>
+
+                    <label for= "time">Time:</label>
+                    <input type= "time" id= "time" name= "time" required><br>
+
+                    <label for= "people">Number of People:</label>
+                    <input type= "number" id= "people" name= "people" required>
+
+                    <input type= "submit" value= "Reservation"> 
+
+                </fieldset>
+            </form>
+        </div>
+    
 </body>
 </html>
