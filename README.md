@@ -1,33 +1,18 @@
-# We-Love-Steak
-restaurant 
-Welcome to the We Love Steak project! This project is dedicated to all steak enthusiasts who want to explore and share their love for cooking and enjoying delicious steaks.
-
-
-
-## Introduction
-We Love Steak is a collaborative project where steak lovers can come together to share their favorite steak recipes, cooking techniques, and experiences. Whether you're a seasoned chef or a beginner in the kitchen, this project aims to provide a platform for everyone to learn, contribute, and connect with fellow steak enthusiasts.
-
-## Features
-- Browse a collection of mouthwatering steak recipes contributed by the community.
-- Share your own steak recipes and cooking tips with others.
-- Engage in discussions and exchange ideas with other steak lovers.
-- Discover new cooking techniques and experiment with different flavors.
-- Stay up-to-date with the latest trends and innovations in the world of steak.
-
-
-
-
 # [WE LOVE STEAK](https://ben1998-hub.github.io/We-Love-Steak)
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+🛑🛑🛑🛑🛑 We Love Steak 🛑🛑🛑🛑🛑
+Welcome to "We Love Steak"-a culinary adventure where passion for steak meats the wonders of technology. This project is an homeage to one of the world's most belvoed foods, aiming to bring together steak enthusiasts and culinary experts alike. Here, we delve
+into the art and science of preparing, cooking and enjoying steak in all it glory. 
 
-In this section, you will include a few paragraphs providing an overview of your project.
-Essentially, this part is your "sales pitch".
+At the heart of "We Love Steak", we are creating a vibrant community platform where steak lovers can share recipes, cooking techiques, and personal experiences. Whether you're a professional chef or a home cook, our project We Love Steak is designed to cater to all levels of expertise.
 
-At this stage, you should have a name for your project so use it!
-Don't introduce the project as a "portfolio project" for the diploma.
+Our goal is to not just celebrate the culinary aspect of steak but to also integrate technological advancements that enhance our cooking 
+tools to leveraging data for perfecting steak preparation, "We Love Steak" is at the forefront of culinary innovation.
 
-In this section, describe what the project hopes to accomplish, who it is intended to target, and how it will be useful to the target audience.
+Why "We Love Steak"? Because we believe that a grate steak is more then just a meal; it's an experience that brings people together.
+It's  about joy of cooking, the memories. Our project is a tribute to this experience, and we invite you to be a part of it.
+
+Here at We Love Steak we are betering are self by teaching others on how to perfected there steaks and allow others to teach us for any new ways that we don't already know about. At We Love Steak it is an amazing place to come and dine or learn and teach everything steak.
 
 Consider adding a mockup image using the "Am I Responsive" website.
 Here's your deployed site as an example:
