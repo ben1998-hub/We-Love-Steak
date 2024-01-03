@@ -62,17 +62,6 @@ main{
     padding: 20px;
 }
 
-#featured-dishes{
-    background-color: #fff;
-    padding: 20px;
-    margin-bottom: 8px;
-    border-radius: 0 2px 4px;
-}
-
-#cooking-steaks{
-    color: #b33f3f;
-    margin-top: 0;
-}
 
 .image-overlay{
     position: relative;
@@ -172,4 +161,11 @@ input[type="eamil"], input[type="tel"],input[type="time"],input[type="number"]{
     margin-bottom: 16px;
     border: 1px soild #ccc;
     border-radius: 4px;
+}
+
+
+img{
+    width: 100%;
+    height: auto;
+    display: block;
 }
