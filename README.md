@@ -73,105 +73,75 @@ I've used CSS `:root` variables to easily update the global colour scheme by cha
     --black: #000000;
 }
 ```
-
+🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑
 ### Typography
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
-Explain any fonts and icon libraries used, like Google Fonts and/or Font Awesome.
-
-Consider adding a link to each font used, and the Font Awesome site if used (or similar icon library).
-
-Example:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 - [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for the primary headers and titles.
 
 - [Lato](https://fonts.google.com/specimen/Lato) was used for all other secondary text.
 
 - [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
-
+🛑🛑🛑🛑🛑  🛑🛑🛑🛑🛑
 ## Features
-
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-In this section, you should go over the different parts of your project,
-and describe each in a sentence or so.
-
-You will need to explain what value each of the features provides for the user,
-focusing on who this website is for, what it is that they want to achieve,
-and how your project is the best way to help them achieve these things.
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-IMPORTANT: Remember to always include a screenshot of each individual feature!
+We Love Steak is designed for steaks lovers and restaurant-goers who seek a seamless online experience.It features a user-friendly menu display, reservation system, and informative content about steak varieties, aimed at enhancing customer satisfaction and streamling the dining process. The project prioritizes ease of use and informative value, making it a comprehensive tool for those interested in steak cuisine. 
 
 🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 ### Existing Features
+The display menu for We Love Steak is easy to locate and very easy to use it, it's simple and user frendly and allows accesibility through out the website.
 
-- **Title for feature #1**
+![screenshot](documentation/navbar.png)
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+- **Resrvation system #2**
 
-![screenshot](documentation/feature01.png)
+    The resrvation system for We Love Steak is phenomenal with inputs for email, mobile, telephone, time and how many no. of pepole. This allows for an indepth and accurate form/reservation.
 
-- **Title for feature #2**
+![screenshot](documentation/resservation.png)
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+- **Contact #3**
 
-![screenshot](documentation/feature02.png)
+    The contact feature in We Love Steak is exponential critical to it's users so they can locate where we are and how to get to us and how to follow are journey through are social medias. 
 
-- **Title for feature #3**
+![screenshot](documentation/contact.png)
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+-**steak #3**
+The steak feature in We Love Steak is important to are users who dont't know what  stakes to have or how to have them cooked, it allows are customers to be more decisive and find it easier to find the steak they want and how to have it cook.
+![screenshhot](documentation/steak.png)
 
-![screenshot](documentation/feature03.png)
+🛑🛑🛑🛑🛑 🛑🛑🛑🛑🛑
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
-Repeat as necessary for as many features as your site contains.
-
-Hint: the more, the merrier!
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 ### Future Features
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+-Full menu.
+-Somewhere to leave Reviews.
+-Shop
 
-Do you have additional ideas that you'd like to include on your project in the future?
-Fantastic! List them here!
-It's always great to have plans for future improvements!
-Consider adding any helpful links or notes to help remind you in the future, if you revisit the project in a couple years.
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+- menu #1
+    - This future feature is to show are users what we can serve and supply to are users.
+- Leave a reviews #2
+    - This future feature is to show are users that they have a voice and show them how trusted we are.
+- Shop #3
+    - This future feature allows are users to  access and buy are equipment.
 
-- Title for future feature #1
-    - Any additional notes about this feature.
-- Title for future feature #2
-    - Any additional notes about this feature.
-- Title for future feature #3
-    - Any additional notes about this feature.
-
+🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑
 ## Tools & Technologies Used
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+-(https://www.youtube.com/watch?v=PlxWf493en4) hlep me with building a basic html website.
 
-In this section, you should explain the various tools and technologies used to develop the project.
-Make sure to put a link (where applicable) to the source, and explain what each was used for.
-Some examples have been provided, but this is just a sample only, your project might've used others.
-Feel free to delete any unused items below as necessary.
+-(https://www.youtube.com/watch?v=wRNinF7YQqQ) help me with stlying the html
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+-(https://www.youtube.com/watch?v=mFFXuXjVgkU) help me with github
 
-- [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
-- [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
-- [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
-- [GitHub](https://github.com) used for secure online code storage.
-- [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
-- [Gitpod](https://gitpod.io) used as a cloud-based IDE for 
+-(https://www.youtube.com/watch?v=6rmVkmiKvds) used for ideas into making the website
+
+
+
+🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑
 ## Testing
 
 For all testing, please refer to the [TESTING.md](TESTING.md) file.
