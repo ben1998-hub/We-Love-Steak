@@ -26,11 +26,11 @@ a{
 
 
 a:hover{
-    color: #7a2828;
+    color: #333;
 }
 
 header{
-    background: #b33f3f;
+    background: rgb(243, 19, 19);
     color: #fff;
     padding: 20px 0;
     text-align: center;
