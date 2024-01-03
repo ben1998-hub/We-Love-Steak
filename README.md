@@ -14,9 +14,10 @@ It's  about joy of cooking, the memories. Our project is a tribute to this exper
 
 Here at We Love Steak we are betering are self by teaching others on how to perfected there steaks and allow others to teach us for any new ways that we don't already know about. At We Love Steak it is an amazing place to come and dine or learn and teach everything steak.
 
-Consider adding a mockup image using the "Am I Responsive" website.
-Here's your deployed site as an example:
+
 https://ui.dev/amiresponsive?url=https://ben1998-hub.github.io/We-Love-Steak
+
+[DEPLOYEMENT!](assets/image/image-deployed-site.png)
 
 Screenshots for the README and testing should not be inside of `assets/` or `static/` image folders.
 (reminder: `assets/` and `static/` are for files used on the live site, not documentation)
