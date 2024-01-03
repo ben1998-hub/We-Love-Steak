@@ -17,7 +17,7 @@ Here at We Love Steak we are betering are self by teaching others on how to perf
 
 https://ui.dev/amiresponsive?url=https://ben1998-hub.github.io/We-Love-Steak
 
-![screenshot](documentaion/image-deployment.png)
+![screenshot](documentation/image-deployment.png)
 
 
 
@@ -39,38 +39,26 @@ Design process for We Love Steak is ablend of creativity, strategy, and technolo
 
 
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+🛑🛑🛑🛑🛑  🛑🛑🛑🛑🛑
 
 ### Colour Scheme
-The color scheme for We Love Steak is 
+The color scheme for We Love Steak. Features black, red, dark gray, and blue. This palette was chosen to crate a visually striking and engaging experience.black offers a classic,readdable base, while the vibrant red serves as a bold highlight, drawing attention to key elements. Dark gray provides a soft contrast for secondary information, and blue adds a cool, refreshing tone. Together, these colors balance virancy with visual appeal of We Love Steak. 
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
+🛑🛑🛑🛑🛑 🛑🛑🛑🛑🛑
+## colour's used
 - `#000000` used for primary text.
 - `#E84610` used for primary highlights.
 - `#4A4A4F` used for secondary text.
 - `#009FE3` used for secondary highlights.
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+🛑🛑🛑🛑🛑  🛑🛑🛑🛑🛑
+## veiw colour's
+![screenshot](documentation/colour-shceme.png)
 
-Consider adding a link and screenshot for your colour scheme using "coolors".
-https://coolors.co/generate
 
-When you add a colour to the palette, the URL is dynamically updated, making it easier for you to return back to your colour palette later if needed.
+🛑🛑🛑🛑🛑 🛑🛑🛑🛑🛑
 
-Example:
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-I used [coolors.co](https://coolors.co/e84610-009fe3-4a4a4f-445261-d63649-e6ecf0-000000) to generate my colour palette.
-
-![screenshot](documentation/coolors.png)
-
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-If you've used CSS `:root` variables, consider also including a code snippet here!
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 I've used CSS `:root` variables to easily update the global colour scheme by changing only one value, instead of everywhere in the CSS file.
 
