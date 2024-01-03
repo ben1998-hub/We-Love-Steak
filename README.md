@@ -17,7 +17,7 @@ Here at We Love Steak we are betering are self by teaching others on how to perf
 
 https://ui.dev/amiresponsive?url=https://ben1998-hub.github.io/We-Love-Steak
 
-[DEPLOYEMENT!](assets/image/image-deployed-site.png)
+[DEPLOYEMENT!](assets/image/image-deployment.png)
 
 Screenshots for the README and testing should not be inside of `assets/` or `static/` image folders.
 (reminder: `assets/` and `static/` are for files used on the live site, not documentation)
