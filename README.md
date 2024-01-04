@@ -331,19 +331,15 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 |![screenshot](documentation/moblie.test.png)
 |![screenshot](documentation/tablet.test.png)
 |![screenshot](documentation/desktop.test.png)
+
+🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑
+
 ## Bugs
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
-This section is primarily used for JavaScript and Python applications,
-but feel free to use this section to document any HTML/CSS bugs you might run into.
 
-It's very important to document any bugs you've discovered while developing the project.
-Make sure to include any necessary steps you've implemented to fix the bug(s) as well.
 
-**PRO TIP**: screenshots of bugs are extremely helpful, and go a long way!
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 - JS Uncaught ReferenceError: `foobar` is undefined/not defined
 
@@ -367,17 +363,12 @@ they need to know whether or not you're aware of them as well, and why you've no
 
 Some examples:
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑
 
 - On devices smaller than 375px, the page starts to have `overflow-x` scrolling.
 
     ![screenshot](documentation/unfixed-bug01.png)
 
-    - Attempted fix: I tried to add additional media queries to handle this, but things started becoming too small to read.
-
-- For PP3, when using a helper `clear()` function, any text above the height of the terminal does not clear, and remains when you scroll up.
-
-    ![screenshot](documentation/unfixed-bug02.png)
 
     - Attempted fix: I tried to adjust the terminal size, but it only resizes the actual terminal, not the allowable area for text.
 
@@ -385,12 +376,11 @@ Some examples:
 
     ![screenshot](documentation/unfixed-bug03.png)
 
-    - Attempted fix: this is a known warning and acceptable, and my section doesn't require a header since it's dynamically added via JS.
+    - Attempted fix: this is a known warning and acceptable, and my section doesn't require a header since it's dynamically added.
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+🛑🛑🛑🛑🛑 🛑🛑🛑🛑🛑
 
-If you legitimately cannot find any unfixed bugs or warnings, then use the following sentence:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 There are no remaining bugs that I am aware of.
+
+🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑
