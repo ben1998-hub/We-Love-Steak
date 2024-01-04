@@ -159,7 +159,7 @@ input[type="eamil"], input[type="tel"],input[type="time"],input[type="number"]{
     padding: 6px;
     margin-top: 8px;
     margin-bottom: 16px;
-    border: 1px soild #ccc;
+    border: 1px  #ccc;
     border-radius: 4px;
 }
 
