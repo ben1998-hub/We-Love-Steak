@@ -190,9 +190,9 @@ A few examples have b
 
 | Source | Location | Type | Notes |
 | --- | --- | --- | --- |
-| [Pexels](https://www.pexels.com) | entire site | image | favicon on all pages |
-[pexels](https://www.pexels.com/photo/table-in-vintage-restaurant-6267/)  | reservation page  | image  |
-| [Pixabay](https://pixabay.com) | gallery page | image | group of photos for gallery 
+[shutterstock](https://www.shutterstock.com/fr/image-photo/raw-meat-types-rib-eye-striploin-2142174971?consentChanged=true)|home page | imgae | image on home page
+[pexels](https://www.pexels.com/photo/table-in-vintage-restaurant-6267/)  | reservation page  | image  | image on resvation page
+[flaticon](https://www.flaticon.com/free-icon/meat_1046769) | entire  |image  |favicon on all pages  |
 ### Acknowledgements
 
 I'd just like to use this space to acknowledgemnt and thank certain people and communitys that helped me a long the way  with this project.
