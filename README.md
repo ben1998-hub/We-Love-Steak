@@ -202,3 +202,11 @@ I'd just like to use this space to acknowledgemnt and thank certain people and c
 - I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support; it kept me going during periods of self doubt and imposter syndrome.
 - I would like to thank my brother (Tomas), for believing in me, and allowing me to make this transition into software development.
 - I would like to thank my employer, for supporting me in my career development change towards becoming a software developer.
+
+### Personal Admission
+
+-For most of pp1 I thought the commits were not all that important oh how wrong I was I now know how crucial they are.
+-I would also like to say I would write the README.md and the TESTING.md through out the project and not leave it all to the end.
+-The most important things for me now wouldn't be some much about the code it's self but more about planing, order and structure when  building a project.
+-I did think until I got to this point it was all about the code if I could go back I would do the things above way more and better!
+-I'd like to thank code instuide for this opportunitty it's been such a learning curve thank you.
